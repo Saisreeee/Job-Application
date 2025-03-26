@@ -1,0 +1,35 @@
+.add{
+	width:200px;
+}
+.col1{
+	width:90px;
+}
+.hoc{
+	margin-left:20px;
+}
+.male{
+	margin-left:20px;
+}
+.select{
+	margin-left:15px;
+	width:90px;
+	font-weight:bold;
+}
+.submit{
+	width:90px;
+	height:35px;
+	margin-right:2px;
+	font-weight:bold;
+}
+.form{
+	font-size:20px;
+	color:blue;
+	font-weight:bold;
+}
+.n{
+	width:130px;
+	font-weight:bold;
+}
+.n1{
+	font-weight:bold;
+}
